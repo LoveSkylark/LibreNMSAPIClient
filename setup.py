@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='LibreNMSAPIClient',
-    version='1.0',
+    name='pylibrenms',
+    version='1.0.0',
     description='Python client for the LibreNMS API',
     url='https://github.com/electrocret/LibreNMSAPIClient',
     author='electrocret',

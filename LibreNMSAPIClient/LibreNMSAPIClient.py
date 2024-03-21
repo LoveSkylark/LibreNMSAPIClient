@@ -23,7 +23,6 @@ class LibreNMSAPIClientException(Exception):
         def __init__(self, message):
                 super(LibreNMSAPIClientException, self).__init__(message)
 
-
 class LibreNMSAPIClient:
     cache = {}
     functions = {
